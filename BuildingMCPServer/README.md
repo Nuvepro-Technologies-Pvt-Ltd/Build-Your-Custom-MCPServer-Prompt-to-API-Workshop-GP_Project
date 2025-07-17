@@ -1,6 +1,6 @@
 # Custom MCP Server for Movie Ticket Booking
 
-This project demonstrates how to build a **Custom Model-Controlled Processor (MCP) Server** that interacts with a Movie Ticket Booking API using **natural language queries**. It showcases how MCP tools can be mapped to API endpoints, enabling users to perform various actions like searching for movies, creating bookings, and managing showtimes — all through NLP.
+This project demonstrates how to build a **Custom Model-Context Protcol (MCP) Server** that interacts with a Movie Ticket Booking API using **natural language queries**. It showcases how MCP tools can be mapped to API endpoints, enabling users to perform various actions like searching for movies, creating bookings, and managing showtimes — all through NLP.
 
 ## What is this project?
 

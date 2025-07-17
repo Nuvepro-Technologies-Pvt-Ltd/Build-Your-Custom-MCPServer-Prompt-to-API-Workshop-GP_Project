@@ -39,7 +39,8 @@ This is a full-stack movie booking application with a Node.js/Express TypeScript
 ## How to Start the Movie Ticket Booking Application
 - Navigate to the Movie Ticket Booking System Application Directory
 - Start the Application
-   - Double-click on the file named start-app.
+  - Double-click on the file named start-app.
+  - The Command Prompt window will open — do not close it, instead minimize it to keep the services running.
    - All required dependencies will be installed.
    - The backend and frontend services will start.
 - Access the Application
