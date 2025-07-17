@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is structured into two main components, each focusing on a specific functionality in building and demonstrating an MCP (Model-Controlled Processor) Server integrated with a Movie Ticket Booking System.
+This project is structured into two main components, each focusing on a specific functionality in building and demonstrating an MCP (Model-Context Protocol) Server integrated with a Movie Ticket Booking System.
 
 ## 1. BuildingMCPServer
 This folder contains the implementation of the MCP Server, which acts as a bridge between natural language queries and backend API calls. It converts user instructions into structured API requests using rule-based or LLM-powered tools.
